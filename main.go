@@ -8,5 +8,5 @@ import (
 func main() {
 	services.ShowStudent()
 	handlers.Menu()
-	services.Addstudent()sadasdasdasdasdasasd
+	services.Addstudent()
 }
